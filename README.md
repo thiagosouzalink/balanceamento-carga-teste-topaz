@@ -25,7 +25,7 @@ Um arquivo onde cada linha contém uma lista de servidores disponíveis no ﬁna
 # Execução do projeto:
 1 - Faça o clone ou download do projeto.\
 2 - Execute a aplicação através do comando\
-```$ python test_load_balancing.py``` ou ```$ python3 test_load_balancing.py```\
+```$ python load_balancing.py``` ou ```$ python3 load_balancing.py```\
 3 - Para a execução dos testes, execute o comando:\
 ```$ python test_load_balancing.py``` ou ```$ python test_load_balancing.py```
 
